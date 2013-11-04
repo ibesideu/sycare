@@ -1,0 +1,3 @@
+Hello, GitHub.
+
+Nothing can be output.
